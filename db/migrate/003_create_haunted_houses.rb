@@ -1,1 +1,1 @@
-# Create your haunted_houses migration here
+Create your haunted_houses migration here
